@@ -196,7 +196,7 @@ class Metesre():
             decoded = []
             for next_item in recommendation:
 
-                decoded.append([self.items.iloc[e] for e in next_item])
+                decoded.append([self.items.iloc[e-1] for e in next_item])
 
             decoded = np.array(decoded)
             return decoded
