@@ -12,6 +12,9 @@ Projects Implemented during working as MLE at ACI Center
 
 `FFPS_ROI_CorrMat.ipynb` contains an analysis to find the significance of different factors on return on investment (ROI). Three different algorithm have been explored for the correlation purpose.
 
+`SQL_test_mis_aci_mmr_nayan.sql` contains solutions to problems provided during the SQL skill test.
+
+
 ## Journey Outcome @ACI_MLE
 
 - MS SQL (Data fetching, Analysis, Master Table Building from DB)
@@ -23,7 +26,7 @@ Projects Implemented during working as MLE at ACI Center
 - Web Scrapping (MedEx Medicine Database, Newspaper, Bengali Literature Database)
 - Mapbox (Making a Mapbox object- Bangladesh map- Division to Union Level) 
 - Heatmap (Building data pipeline: Camera to Analyzer, feed discrete frames from the outlet cameras instead of the continuous frame to reduce time overhead and memory usage and overcome internet issues)
-- Region-wise Doctor's Top Medicine recognition from hand written prescription 
+- Region-wise Doctor's Top Medicine recognition from hand-written prescription 
 - Product Recognition (Market presence understanding from field force provided shop's picture, used YOLO model, have to annotate data for model training)
 - Amazon KDD Cup: Next Product Recommendation Model (Data processing pipeline, Model Training Pipeline, Model Inferencing, and Server compatible Data Generation Pipeline)
 
