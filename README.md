@@ -8,6 +8,10 @@ Projects Implemented during working as MLE at ACI Center
 `anomaly_detector.py` includes a function `curve_fitter` that fits a data distribution and returns the fitted parameters which can be used for anomaly detection 
 
 
+`metesre.py` and a similar name notebook is the neural model designed for Amazon KDD Cup'23. The object contains a full pipeline to preprocess the dataset, train the model, inferencing, and export test rest in binary file for submission/future usage purposes.
+
+`FFPS_ROI_CorrMat.ipynb` contains an analysis to find the significance of different factors on return on investment (ROI). Three different algorithm have been explored for the correlation purpose.
+
 ## Journey Outcome @ACI_MLE
 
 - MS SQL (Data fetching, Analysis, Master Table Building from DB)
